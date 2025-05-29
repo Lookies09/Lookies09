@@ -22,6 +22,12 @@
        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </a>
 
+<a href="https://www.youtube.com/watch?v=An4Xjy4I8p0" target="_blank">
+  <img src="https://img.youtube.com/vi/An4Xjy4I8p0/hqdefault.jpg" 
+       width="300" 
+       style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+</a>
+
 > 영상 썸네일을 클릭하면 유튜브로 이동합니다!
 
 ---
@@ -51,16 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lookies09&color=blue" />
-</p>
-
----
-
-## 🧾 소개
-
-Unity 기반의 캐주얼 게임과 시뮬레이션 게임을 주로 개발하며,  
-기획부터 구현, 배포까지 모든 과정을 직접 경험하는 것을 좋아합니다.  
-사용자에게 재미와 몰입을 주는 게임을 만드는 것이 목표입니다 🎯
+  <img src="htt다.  
+사용자에게 강한 여운을 남기는 게임을 만드는 것이 목표입니다 🎯
 
 ---
 
