@@ -26,19 +26,16 @@
 
 ---
 
-## 🧰 기술 스택
-
-| 분류                  | 기술                                                                 | 숙련도                       |
-|----------------------|----------------------------------------------------------------------|------------------------------|
-| **Languages**         | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)           | 90% ▶■■■■■■■■■■■■■■■■■■■□□□ |
-|                      | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)             | 80% ▶■■■■■■■■■■■■■■■■□□□□    |
-|                      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 75% ▶■■■■■■■■■■■■■■■□□□□□   |
-| **Frameworks & Libraries** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)     | 70% ▶■■■■■■■■■■■■■■□□□□□    |
-|                      | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)          | 65% ▶■■■■■■■■■■■■■□□□□□□    |
-| **Tools**             | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)           | 90% ▶■■■■■■■■■■■■■■■■■■■□□□ |
-|                      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)           | 70% ▶■■■■■■■■■■■■■■□□□□□    |
-|                      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)                  | 75% ▶■■■■■■■■■■■■■■■□□□□□   |
-| **Orchestration**     | _(추가 예정)_                                                        |                              |
+| 분류                         | 기술                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)                  |
+|                            | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)                   |
+|                            | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) |
+| **Frameworks & Libraries** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)             |
+|                            | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)                |
+| **Tools**                  | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square\&logo=unity\&logoColor=white)                |
+|                            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)                |
+|                            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)                      |
 
 ---
 
