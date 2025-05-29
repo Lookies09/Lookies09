@@ -28,23 +28,19 @@
 
 ## 🧰 기술 스택
 
-| 분류 | 기술 | 숙련도 |
-|------|------|--------|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![90%](https://progress-bar.dev/90/) |
-|  | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![80%](https://progress-bar.dev/80/) |
-|  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![75%](https://progress-bar.dev/75/) |
-| **Frameworks & Libraries** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![70%](https://progress-bar.dev/70/) |
-|  | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![65%](https://progress-bar.dev/65/) |
-| **Tools** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![90%](https://progress-bar.dev/90/) |
-|  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![70%](https://progress-bar.dev/70/) |
-|  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![75%](https://progress-bar.dev/75/) |
-| **Orchestration** | _(추가 예정)_ |  |
-
-> 숙련도 수치는 경험과 자신감을 기준으로 표현되었습니다.  
-> 추후 DevOps 관련 기술 (예: Docker, AWS) 습득 시 Orchestration 영역에 확장 가능합니다.
+| 분류                  | 기술                                                                 | 숙련도                       |
+|----------------------|----------------------------------------------------------------------|------------------------------|
+| **Languages**         | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)           | 90% ▶■■■■■■■■■■■■■■■■■■■□□□ |
+|                      | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)             | 80% ▶■■■■■■■■■■■■■■■■□□□□    |
+|                      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 75% ▶■■■■■■■■■■■■■■■□□□□□   |
+| **Frameworks & Libraries** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)     | 70% ▶■■■■■■■■■■■■■■□□□□□    |
+|                      | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)          | 65% ▶■■■■■■■■■■■■■□□□□□□    |
+| **Tools**             | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)           | 90% ▶■■■■■■■■■■■■■■■■■■■□□□ |
+|                      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)           | 70% ▶■■■■■■■■■■■■■■□□□□□    |
+|                      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)                  | 75% ▶■■■■■■■■■■■■■■■□□□□□   |
+| **Orchestration**     | _(추가 예정)_                                                        |                              |
 
 ---
-
 
 ## 📊 GitHub 활동 통계
 
