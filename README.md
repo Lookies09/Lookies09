@@ -204,33 +204,80 @@
 
 <h2>Frontend Project</h2>
 
-<h3>LGCMS</h3>
+<br/>
 
-<p>
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <a href="https://github.com/LGCNS-FINAL-LGCMS">
+        <img
+          src="./assets/lgcms-product-showcase.jpg"
+          width="100%"
+          alt="LGCMS product interface showcase"
+        />
+      </a>
+    </td>
+    <td width="42%" valign="top">
+      <h3>LGCMS</h3>
+      <p>
+        <b>Learning &amp; GenAI-based Content Management System</b>
+      </p>
+      <p>
+        LG CNS AM Inspire Camp 2기 최종 팀 프로젝트로,<br/>
+        수강생·강사·관리자를 위한 온라인 강의 및 학습 관리 플랫폼입니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Team-8_Members-334155?style=flat-square" alt="8 team members" />
+        <img src="https://img.shields.io/badge/Period-10_Weeks-4F46E5?style=flat-square" alt="10 week project" />
+        <img src="https://img.shields.io/badge/Services-13_Domains-0F766E?style=flat-square" alt="13 domain services" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/SSE-Realtime_Notification-2563EB?style=flat-square" alt="SSE realtime notification" />
 </p>
 
 <p>
-  <b>LG CNS AM Inspire Camp 2기 최종 팀 프로젝트</b><br/>
-  수강생, 강사와 관리자를 위한 온라인 강의·학습 관리 플랫폼
-</p>
-
-<p>
+  <b>담당 영역</b><br/>
   공통 헤더·알림·장바구니 · 메인 페이지와 무한 스크롤<br/>
-  강의 검색·상세·개설·강좌 관리 · 학생·강사용 Q&A<br/>
+  강의 검색·상세·개설·강좌 관리 · 학생·강사용 Q&amp;A<br/>
   Redux 권한별 UI · 공통 API 클라이언트 · SSE 알림 · 통합 오류 수정
 </p>
 
-<p>
+<p align="center">
+  <a href="https://github.com/LGCNS-FINAL-LGCMS/front">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LGCNS-FINAL-LGCMS&repo=front&theme=transparent&hide_border=true&show_owner=true"
+      width="48%"
+      alt="LGCMS frontend repository card"
+    />
+  </a>
+  <a href="https://github.com/LGCNS-FINAL-LGCMS/infra-terraform">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LGCNS-FINAL-LGCMS&repo=infra-terraform&theme=transparent&hide_border=true&show_owner=true"
+      width="48%"
+      alt="LGCMS infrastructure repository card"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/LGCNS-FINAL-LGCMS">
-    <img src="https://img.shields.io/badge/View-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="LGCMS Organization" />
+    <img src="https://img.shields.io/badge/Explore-LGCMS_Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore LGCMS Organization" />
   </a>
   <a href="https://github.com/LGCNS-FINAL-LGCMS/front">
-    <img src="https://img.shields.io/badge/View-Frontend_Repository-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repository" />
+    <img src="https://img.shields.io/badge/View-Frontend_Repository-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="View frontend repository" />
   </a>
+</p>
+
+<p align="center">
+  <sub>대표 이미지를 선택하면 LGCMS Organization으로 이동합니다.</sub>
 </p>
 
 <br/>
