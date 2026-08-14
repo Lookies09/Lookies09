@@ -1,45 +1,53 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:1D4ED8,100:7C3AED&height=185&section=header&text=Hyeonggyun%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Unity%20Client%20Developer&descSize=21&descAlignY=63"
-    width="100%"
-    alt="Hyeonggyun Kim - Unity Client Developer"
-  />
-</p>
-
 <div align="center">
 
 <p>
-  Unity와 C#을 기반으로 <b>게임 클라이언트와 게임플레이 시스템</b>을 개발합니다.<br/>
-  상태 기반 시스템 설계, 플레이어 상호작용, UI 흐름과 런타임 안정성을 중요하게 생각합니다.
+  Unity와 C#을 기반으로 <b>모바일 게임 클라이언트와 게임플레이 시스템</b>을 개발합니다.<br/>
+  게임플레이 상태 설계부터 실제 모바일 환경의 성능과 안정성까지 함께 고려합니다.
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Lookies09/ashborn-client-portfolio">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-Ashborn-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Ashborn technical portfolio"
+      src="https://img.shields.io/badge/VIEW_SOURCE-ASH:BORN-181717?style=for-the-badge&logo=github&logoColor=white"
+      height="34"
+      alt="View ASH:BORN source code"
     />
   </a>
-  <a href="https://lookiesr.itch.io/">
+  &nbsp;
+  <a href="https://lookiesr.itch.io/ashborn">
     <img
-      src="https://img.shields.io/badge/PLAY-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
-      alt="Play builds on itch.io"
+      src="https://img.shields.io/badge/PLAY_GAME-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
+      height="34"
+      alt="Play ASH:BORN"
     />
   </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Cloud_093">
+    <img
+      src="https://img.shields.io/badge/WATCH_DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      height="34"
+      alt="Watch ASH:BORN gameplay demo"
+    />
+  </a>
+  &nbsp;
   <a href="https://invited-airmail-95b.notion.site/1a665bf5839780deb0cefb8a46d13d81">
     <img
-      src="https://img.shields.io/badge/NOTES-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
+      src="https://img.shields.io/badge/DEV_NOTES-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
+      height="34"
       alt="Development notes"
     />
   </a>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C#" />
+  <img
+    src="https://skillicons.dev/icons?i=unity,cs&theme=dark"
+    alt="Unity and C#"
+  />
 </p>
 
 <p>
-  Gameplay Systems · Character &amp; Combat · Interaction &amp; UI · Architecture &amp; Debugging
+  Gameplay Systems · Combat &amp; Enemy AI · Mobile Runtime · Profiling &amp; Debugging
 </p>
 
 </div>
@@ -50,7 +58,7 @@
 
 <h2>Featured Game Projects</h2>
 
-<h3>Ashborn</h3>
+<h3>ASH:BORN</h3>
 
 <p>
   <img
