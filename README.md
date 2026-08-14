@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:1D4ED8,100:7C3AED&height=185&section=header&text=Hyeonggyun%20Kim&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Unity%20Client%20Developer&descSize=21&descAlignY=63"
+    width="100%"
+    alt="Hyeonggyun Kim - Unity Client Developer"
+  />
+</p>
+
 <div align="center">
 
 <p>
@@ -22,14 +30,6 @@
     />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@Cloud_093">
-    <img
-      src="https://img.shields.io/badge/WATCH_DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      height="34"
-      alt="Watch ASH:BORN gameplay demo"
-    />
-  </a>
-  &nbsp;
   <a href="https://invited-airmail-95b.notion.site/1a665bf5839780deb0cefb8a46d13d81">
     <img
       src="https://img.shields.io/badge/DEV_NOTES-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
@@ -39,11 +39,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@Cloud_093">
+    <img
+      src="https://img.shields.io/badge/WATCH_DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      height="34"
+      alt="Watch ASH:BORN gameplay demo"
+    />
+  </a>
+</p>
+
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=unity,cs&theme=dark"
-    alt="Unity and C#"
-  />
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C#" />
 </p>
 
 <p>
@@ -94,13 +101,13 @@
   <a href="https://github.com/Lookies09/ashborn-client-portfolio">
     <img
       src="https://img.shields.io/badge/View-Technical_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Ashborn technical portfolio"
+      alt="View ASH:BORN technical portfolio"
     />
   </a>
   <a href="https://lookiesr.itch.io/ashborn">
     <img
-      src="https://img.shields.io/badge/Play-Ashborn-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
-      alt="Play Ashborn"
+      src="https://img.shields.io/badge/Play-ASH:BORN-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
+      alt="Play ASH:BORN"
     />
   </a>
 </p>
